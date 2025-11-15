@@ -1,0 +1,6 @@
+prompt_toolkit
+google-generativeai
+spacy
+transformers
+click
+pyyaml
