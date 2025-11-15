@@ -163,16 +163,6 @@ Contributions welcome! Areas for enhancement:
 - More sophisticated intent parsing
 - Interactive command editing
 
-## 📄 License
-
-MIT License - feel free to use, modify, and distribute.
-
-## 🙏 Acknowledgments
-
-Built with:
-- [Google Gemini](https://ai.google.dev/) - Natural language understanding
-- [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Interactive terminal interface
-
 ---
 
 **Note**: This shell executes real system commands. Always review commands before confirming execution, especially when learning how it interprets natural language.
