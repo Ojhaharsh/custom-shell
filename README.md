@@ -146,13 +146,6 @@ When prompted to execute a command:
 - **Timeout Protection** - Commands automatically terminate after 30 seconds
 - **Audit Trail** - All actions logged to `audit.log`
 
-## 🛠️ Configuration
-
-The shell works out-of-the-box with sensible defaults. Optional configuration:
-
-- **API Provider**: Currently uses Gemini, but architecture supports multiple providers
-- **Timeout**: Default 30s, modify in `src/executor.py`
-- **Safety Rules**: Customize dangerous patterns in `src/planner.py`
 
 ## 🤝 Contributing
 
